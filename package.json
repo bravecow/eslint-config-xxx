@@ -1,0 +1,27 @@
+{
+  "name": "eslint-config-xxx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bravecow/eslint-config-xxx.git"
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ],
+  "bugs": {
+    "url": "https://github.com/bravecow/eslint-config-xxx/issues"
+  },
+  "homepage": "https://github.com/bravecow/eslint-config-xxx#readme",
+  "devDependencies": {
+    "eslint": "^7.0.0"
+  },
+  "eslintConfig": {
+    "extends": "./index.js"
+  },
+  "scripts": {
+    "test": "eslint index.js"
+  }
+}
