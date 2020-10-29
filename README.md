@@ -14,6 +14,6 @@ Then add a following `.eslintrc` file in the repo root:
 
 ```json
 {
-  "extends": "mourner"
+  "extends": "xxx"
 }
 ```
